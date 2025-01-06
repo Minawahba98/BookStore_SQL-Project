@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Management System Data Analysis
 
 ## 1. Overview
@@ -221,3 +222,7 @@ The diagram provides a clear view of how the tables are interconnected, ensuring
 
 ## 7. Conclusion
 This management system provides a structured approach for managing branches, employees, books, members, and transactions. The analysis yields insights such as popular books, overdue records, and total revenue by category, helping optimize operations and decision-making.
+=======
+# BookStore_SQL-Project
+This project demonstrates SQL skills through database creation, data management, and analysis. It includes scripts to manage branches, employees, books, and transactions, showcasing real-world applications of SQL. Perfect for learning and portfolio building.
+>>>>>>> fcdd7735bebe85b8bf535633e93a45b131204b32
