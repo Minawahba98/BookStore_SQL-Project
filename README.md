@@ -26,6 +26,11 @@ The database schema consists of six main tables, each with specific roles in the
   - Employees via `issued_emp_id`.
 - The `Return_Status` table depends on `Issued_Status` for identifying the issued transaction.
 
+## Database Schema Diagram
+Below is the database schema used in this project:
+
+![Database Schema Diagram](Images/database_schema_diagram.png)
+
 ---
 
 ## 2. Database Setup
