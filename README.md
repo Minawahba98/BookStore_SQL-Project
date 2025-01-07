@@ -226,7 +226,7 @@ WHERE (r.return_date - i.issued_date) > 14;
 ---
 
 ## 5. Future Improvements
-1. Add additional constraints (e.g., NOT NULL) to critical columns to improve data integrity.
+1. Add additional constraints ( NOT NULL) to critical columns to improve data integrity.
 2. Normalize the database further by breaking down repeating fields into separate tables.
 3. Implement triggers for automatic updates on related tables.
 
