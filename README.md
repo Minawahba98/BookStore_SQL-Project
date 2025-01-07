@@ -32,7 +32,6 @@ Below is the database schema for this project:
 
 ![Database Schema Diagram](Images/database_schema_diagram.png)
 
-
 ---
 
 ## 2. Database Setup
