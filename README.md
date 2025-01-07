@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # Management System Data Analysis
 
 ## 1. Overview
