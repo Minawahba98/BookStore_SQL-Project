@@ -30,7 +30,8 @@ The database schema consists of six main tables, each with specific roles in the
 
 Below is the database schema for this project:
 
-![Database Schema Diagram](Images/database_schema_diagram.JPG)
+![Database Schema Diagram](Images/database_schema_diagram.png)
+
 
 ---
 
