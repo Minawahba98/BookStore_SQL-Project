@@ -29,8 +29,20 @@ The database schema consists of six main tables, each with specific roles in the
 ## Database Schema Diagram
 
 Below is the database schema for this project:
+The diagram below represents the structure of the database used in this project. It includes six interconnected tables designed to manage branches, employees, books, members, issued transactions, and return statuses efficiently. The relationships between these tables are defined through foreign keys, enabling seamless data integrity and efficient querying.
+
+Key Features:
+Branch Table: Stores information about branches, including the manager and contact details.
+Employees Table: Tracks employee details and their association with branches.
+Books Table: Maintains details of books such as title, category, rental price, and author.
+Members Table: Manages member details, including their registration date and address.
+Issued_Status Table: Tracks books issued to members and associates employees and members.
+Return_Status Table: Records book returns and links to the issued transactions.
+This schema is optimized for library management use cases, ensuring relational consistency and ease of data management.
+
 
 ![Database Schema Diagram](Images/database_schema_diagram.JPG.png)
+
 
 ---
 
