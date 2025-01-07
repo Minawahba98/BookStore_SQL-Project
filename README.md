@@ -3,6 +3,13 @@
 ![Description of Image](Images/photo-1518373714866-3f1478910cc0.jpg)
 
 
+## SQL Files
+
+The project includes the following SQL files:
+
+- [DDL Statements (Database Schema)](SQL/DDL_Statements.sql): Contains all `CREATE TABLE` and `DROP TABLE` statements for setting up the database schema.
+- [DML Statements (Data Manipulation)](SQL/DML_Statements.sql): Includes `INSERT`, `UPDATE`, and `DELETE` statements for data management.
+
 ## 1. Overview
 
 This project focuses on creating a structured library management system, consisting of six interrelated tables to manage branches, employees, books, members, issued books, and returned books. The database schema ensures consistency and data integrity while providing insights through data analysis. Below is a summary of the database structure and relationships:
